@@ -20,5 +20,5 @@ Basically, the main method gets inherited down but there's no way to get the
 child class from that inherited main method so they have to do a bunch of
 reflection.
 
-- See line #457 of [CommandLineProgram.java](JavaTaskForce/src/acm/program/CommandLineProgram.java)
-- [DOSCommandLine.java](JavaBackEnd/latest-version-decompiled/acm/util/DOSCommandLine.java)
+- [See line #457 of CommandLineProgram.java](https://github.com/coarchive/stanford-cpp-library/blob/cs-java/JavaTaskForce/src/acm/program/CommandLineProgram.java#L1026-L1063)
+- [DOSCommandLine.java](https://github.com/coarchive/stanford-cpp-library/blob/cs-java/JavaBackEnd/latest-version-decompiled/acm/util/DOSCommandLine.java#L53)
